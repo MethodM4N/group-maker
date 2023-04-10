@@ -2,7 +2,7 @@
 
 ## Ссылка на Github Pages
 
-...
+https://methodm4n.github.io/group-maker/
 
 ## Функциональные особенности
 
