@@ -18,7 +18,7 @@ https://methodm4n.github.io/group-maker/
 
 ## Инструкция по установке и запуску
 
-Клонировать репозиторий ---> npm i ---> npm serve
+Клонировать репозиторий ---> npm i ---> npm run serve
 
 ## Стэк технологий
 
