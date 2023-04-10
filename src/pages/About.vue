@@ -87,6 +87,9 @@ export default {
 
   a {
     width: fit-content;
+    &:last-of-type {
+      margin-bottom: 20px;
+    }
   }
 }
 

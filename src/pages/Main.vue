@@ -289,7 +289,7 @@ export default {
   }
 
   &__clear-button {
-    margin: 0 auto;
+    margin: 0 auto 40px;
     padding: 10px 40px;
     cursor: pointer;
 
